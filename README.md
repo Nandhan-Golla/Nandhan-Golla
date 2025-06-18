@@ -13,6 +13,7 @@
     <img src="https://img.shields.io/badge/AIR%20VIT--AP-Member-darkblue?logo=academia&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Nickname-The%20AI%20Necromancer-purple?logo=ghost&logoColor=white" />
+ <a href ="https://github.com/Nandhan-Golla/Quantum-GAN"/>
   <img src="https://img.shields.io/badge/Featured-Quantum%20GAN-9cf?logo=quantconnect&logoColor=white" />
 </p>
 
