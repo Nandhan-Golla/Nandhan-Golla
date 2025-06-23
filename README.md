@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://i.imgur.com/kvlIXjC.gif" alt="AI Necromancer Banner" width="100%" />
-</p>
+
 
 <h1 align="center">🧠 Nandhan Golla</h1>
 <h3 align="center"><strong>AI – Necromancer</strong></h3>
