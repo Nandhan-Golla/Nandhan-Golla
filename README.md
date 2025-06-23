@@ -1,4 +1,71 @@
 
+<div align="center">
+  <style>
+    .glitch-container {
+      position: relative;
+      display: inline-block;
+      font-family: 'Courier New', monospace;
+      font-size: 2.2em;
+      color: #00fff7;
+      background: #000;
+      padding: 20px 40px;
+      border: 2px solid #00fff7;
+      border-radius: 8px;
+      animation: pulseBorder 2s infinite;
+    }
+
+    .glitch-text {
+      position: relative;
+    }
+
+    .glitch-text::before,
+    .glitch-text::after {
+      content: attr(data-text);
+      position: absolute;
+      left: 0;
+      width: 100%;
+      overflow: hidden;
+    }
+
+    .glitch-text::before {
+      top: -2px;
+      color: #ff00c8;
+      animation: glitchTop 1s infinite linear alternate-reverse;
+    }
+
+    .glitch-text::after {
+      top: 2px;
+      color: #00fff7;
+      animation: glitchBottom 1s infinite linear alternate-reverse;
+    }
+
+    @keyframes glitchTop {
+      0% { clip-path: inset(0 0 80% 0); transform: translateX(-1px); }
+      50% { clip-path: inset(30% 0 40% 0); transform: translateX(1px); }
+      100% { clip-path: inset(60% 0 0 0); transform: translateX(-1px); }
+    }
+
+    @keyframes glitchBottom {
+      0% { clip-path: inset(80% 0 0 0); transform: translateX(1px); }
+      50% { clip-path: inset(40% 0 30% 0); transform: translateX(-1px); }
+      100% { clip-path: inset(0 0 60% 0); transform: translateX(1px); }
+    }
+
+    @keyframes pulseBorder {
+      0%, 100% {
+        box-shadow: 0 0 5px #00fff7, 0 0 15px #00fff7, 0 0 30px #ff00c8;
+      }
+      50% {
+        box-shadow: 0 0 10px #ff00c8, 0 0 20px #00fff7, 0 0 40px #00fff7;
+      }
+    }
+  </style>
+
+  <div class="glitch-container">
+    <span class="glitch-text" data-text="THE AI NECROMANCER">THE AI NECROMANCER</span>
+  </div>
+</div>
+
 
 <h1 align="center">🧠 Nandhan Golla</h1>
 <h3 align="center"><strong>AI – Necromancer</strong></h3>
