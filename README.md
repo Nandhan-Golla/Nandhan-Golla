@@ -17,7 +17,6 @@
   <img src="https://img.shields.io/badge/Featured-Quantum%20GAN-ff00dd?style=for-the-badge&logo=quantconnect&logoColor=white" />
 </p>
 
-<img src="https://raw.githubusercontent.com/Nandhan-Golla/Nandhan-Golla/assets/divider-dark.svg" width="100%" />
 
 <div align="center" style="margin-top: -16px;">
   <img src="https://skillicons.dev/icons?i=python,rust,cpp,java,js,kotlin" height="48" />
@@ -110,4 +109,3 @@ Summon me.
   <b>— Nandhan Golla, The AI Necromancer</b>
 </p>
 
-<img src="https://raw.githubusercontent.com/Nandhan-Golla/Nandhan-Golla/assets/divider-dark.svg" width="100%" />
