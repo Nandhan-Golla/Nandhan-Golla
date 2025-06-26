@@ -83,7 +83,6 @@ I conjure intelligence from the void, transforming chaos into emergent order.
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandhan-Golla&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
 </p>
-
 ---
 
 ### ⚡️ Featured Summoning: Quantum GAN
