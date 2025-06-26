@@ -68,22 +68,7 @@ I conjure intelligence from the void, transforming chaos into emergent order.
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
 
----
 
-### 📊 My Contribution Chart
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nandhan-Golla&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" alt="Nandhan's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nandhan-Golla&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandhan-Golla&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
-</p>
----
 
 ### ⚡️ Featured Summoning: Quantum GAN
 
