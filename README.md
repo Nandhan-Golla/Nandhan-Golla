@@ -27,7 +27,7 @@ Core: AGI research, Quantum-classical ML, Sim2Real, Generative & Cognitive syste
 </p>
 
 <pre align="center" style="font-size:12px;line-height:10px">
-       .-"""-.
+       .-\"\"\"-.
       / .===. \
       \/ 6 6 \/
       (  \_/  )
